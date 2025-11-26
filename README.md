@@ -1,4 +1,4 @@
-Trabajo de Fin de Grado titulado "Desarrollo de Circuitos Analógicos para el procesamiento de Audio", por Jimena Díaz, y tutelado por Jorge Pleite. 
+Trabajo de Fin de Grado titulado "Desarrollo de Circuitos Analógicos para el procesamiento de Audio", por Jimena Díaz, tutelado por Jorge Pleite. 
 
 Consiste en el desarrollo de un pedal de guitarra analógico de mejora y acondicionamiento mediante buffer, distorsión multibanda y un EQ simple.
 
